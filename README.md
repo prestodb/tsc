@@ -6,6 +6,10 @@ The Presto TSC will be responsible for all technical oversight of the open sourc
 
 The Presto Technical Charter is located in [CHARTER.md](CHARTER.md)
 
+## Mailing List
+
+https://lists.prestodb.io/g/presto-tsc
+
 ## Members
 
 The TSC voting members are initially the Project’s Committers. At the inception of the project, the Committers of the Project will be as set forth within the "CONTRIBUTING" file within the Project’s code repository
