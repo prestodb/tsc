@@ -10,6 +10,10 @@ The Presto Technical Charter is located in [CHARTER.md](CHARTER.md)
 
 https://lists.prestodb.io/g/presto-tsc
 
+## Public Calendar
+
+https://calendar.google.com/calendar/embed?src=linuxfoundation.org_vrjlva5b0u73ps75fvnv5sasi4%40group.calendar.google.com&ctz=America%2FChicago
+
 ## Members
 
 The TSC voting members are initially the Project’s Committers. At the inception of the project, the Committers of the Project will be as set forth within the "CONTRIBUTING" file within the Project’s code repository
