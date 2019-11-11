@@ -20,7 +20,7 @@ Contributors are any members of the open source community who participate in pro
 
 #### Committers
 
-Committers are members of the contributor community who have demonstrated an ongoing commitment to the health and sustainability of the Presto project through good citizenship and wise stewarship. These individual have been elevated to a decision-making role, and responsible for reviewing and merging code from contributors. They may also be involved in the release process or other critical project roles.
+Committers are members of the contributor community who have demonstrated an ongoing commitment to the health and sustainability of the Presto project through good citizenship and wise stewardship. These individuals have been elevated to a decision-making role, and responsible for reviewing and merging code from contributors. They may also be involved in the release process or other critical project roles.
 
 The Presto committers are:
 
