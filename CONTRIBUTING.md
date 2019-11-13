@@ -16,7 +16,7 @@ Presto follows industry best practices, with the technical project and its gover
 
 #### Contributors
 
-Contributors are any members of the open source community who participate in project develompent. Contributors may be participation on their own behalf or on behalf of their employer. Membership in the [Presto Foundation](https://prestodb.io) is not required in order to contribute, although contributors must have signed a CLA prior to their code being merged (see below).
+Contributors are any members of the open source community who participate in project develompent. Contributors may participate on their own behalf or on behalf of their employer. Membership in the [Presto Foundation](https://prestodb.io) is not required in order to contribute, although contributors must have signed a CLA prior to their code being merged (see below).
 
 #### Committers
 
