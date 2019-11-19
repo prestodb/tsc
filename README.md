@@ -6,7 +6,7 @@ The Presto TSC will be responsible for all technical oversight of the open sourc
 
 The Presto Technical Charter is located in [CHARTER.md](CHARTER.md)
 
-## Mailing List
+## Public Mailing List
 
 https://lists.prestodb.io/g/presto-tsc
 
