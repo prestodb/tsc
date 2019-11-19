@@ -1,4 +1,4 @@
-# Presto Techncial Steering Committee (TSC)
+# Presto Technical Steering Committee (TSC)
 
 The Presto TSC will be responsible for all technical oversight of the open source Project. 
 
