@@ -10,7 +10,7 @@ The Presto Technical Charter is located in [CHARTER.md](CHARTER.md)
 
 ### Mailing List
 
-https://lists.prestodb.io/g/presto-tsc
+The TSC for Presto Foundation can be reached at their [mailing list](https://lists.prestodb.io/g/presto-tsc)
 
 ### Slack
 
