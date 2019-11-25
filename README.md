@@ -14,12 +14,11 @@ https://lists.prestodb.io/g/presto-tsc
 
 ### Slack
 
-The Presto Foundation uses [Slack] (https://join.slack.com/t/prestodb/shared_invite/enQtNTQ3NjU2MTYyNDA2LTYyOTg3MzUyMWE1YTI3Njc5YjgxZjNiYTgxODAzYjI5YWMwYWE0MTZjYWFhNGMwNjczYjI3N2JhM2ExMGJlMWM) for communication and collaboration.
+The Presto Foundation uses [Slack](https://join.slack.com/t/prestodb/shared_invite/enQtNTQ3NjU2MTYyNDA2LTYyOTg3MzUyMWE1YTI3Njc5YjgxZjNiYTgxODAzYjI5YWMwYWE0MTZjYWFhNGMwNjczYjI3N2JhM2ExMGJlMWM) for communication and collaboration.
 
 ### Calendars and Meetings
 
-[Here](https://calendar.google.com/calendar/embed?src=linuxfoundation.org_vrjlva5b0u73ps75fvnv5sasi4%40group.calendar.google.com&ctz=America%2FChicago) is the Google calendar for the TSC meetings.
-
+The Presto Foundation maintains a [public calendar](https://calendar.google.com/calendar/embed?src=linuxfoundation.org_vrjlva5b0u73ps75fvnv5sasi4%40group.calendar.google.com&ctz=America%2FChicago) for TSC meetings. These meetings are open for anyone to join.
 
 
 ## Members
