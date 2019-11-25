@@ -6,13 +6,21 @@ The Presto TSC will be responsible for all technical oversight of the open sourc
 
 The Presto Technical Charter is located in [CHARTER.md](CHARTER.md)
 
-## Mailing List
+## Collaboration Tools
+
+### Mailing List
 
 https://lists.prestodb.io/g/presto-tsc
 
-## Public Calendar
+### Slack
+
+The Presto Foundation uses [Slack] (https://join.slack.com/t/prestodb/shared_invite/enQtNTQ3NjU2MTYyNDA2LTYyOTg3MzUyMWE1YTI3Njc5YjgxZjNiYTgxODAzYjI5YWMwYWE0MTZjYWFhNGMwNjczYjI3N2JhM2ExMGJlMWM) for communication and collaboration.
+
+### Calendars and Meetings
 
 [Here](https://calendar.google.com/calendar/embed?src=linuxfoundation.org_vrjlva5b0u73ps75fvnv5sasi4%40group.calendar.google.com&ctz=America%2FChicago) is the Google calendar for the TSC meetings.
+
+
 
 ## Members
 
