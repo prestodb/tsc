@@ -25,6 +25,18 @@ The Presto Foundation maintains a [public calendar](https://calendar.google.com/
 
 ## Members
 
-The TSC voting members are initially the [Project’s Committers](https://github.com/prestodb/presto/wiki/committers), and the current TSC chair is Nezih Yigitbasi ([@nezihyigitbasi](https://github.com/nezihyigitbasi)). At the inception of the project, the Committers of the Project will be as set forth within the "CONTRIBUTING" file within the Project’s code repository
+The TSC voting members are initially the [Project’s Committers](https://github.com/prestodb/presto/wiki/committers).
 
-https://github.com/prestodb/presto/blob/master/CONTRIBUTING.md
+The Presto committers are:
+
+* Maria Basmanova ([mbasmanova](https://github.com/mbasmanova))
+* Shixuan Fan ([shixuan-fan](https://github.com/shixuan-fan))
+* Jiexi Lin ([jessesleeping](https://github.com/jessesleeping))
+* Zhenxiao Luo ([zhenxiao](https://github.com/zhenxiao))
+* Andrii Rosa ([arhimondr](https://github.com/arhimondr))
+* Rebecca Schlussel ([rschlussel](https://github.com/rschlussel))
+* James Sun ([highker](https://github.com/highker))
+* Wenlei Xie ([wenleix](https://github.com/wenleix))
+* Rongrong Zhong ([rongrong](https://github.com/rongrong))
+
+The current TSC chair is Nezih Yigitbasi ([@nezihyigitbasi](https://github.com/nezihyigitbasi)).
