@@ -22,21 +22,26 @@ Once you join the The [Presto Foundation Slack Workspace](https://join.slack.com
 
 The Presto Foundation maintains a [public calendar](https://calendar.google.com/calendar/embed?src=linuxfoundation.org_vrjlva5b0u73ps75fvnv5sasi4%40group.calendar.google.com&ctz=America%2FChicago) for TSC meetings. These meetings are open for anyone to join.
 
+Because we work in a highly distributed environment and will rarely meet in person, participants are encouraged to use video as appropriate.
 
 ## Members
 
-The TSC voting members are initially the [Project’s Committers](https://github.com/prestodb/presto/wiki/committers).
+The TSC voting members are initially the [Project’s Committers](https://github.com/prestodb/.github/blob/master/CONTRIBUTING.md).
 
-The Presto committers are:
+The current members of the Presto TSC are:
 
-* Maria Basmanova ([mbasmanova](https://github.com/mbasmanova))
-* Shixuan Fan ([shixuan-fan](https://github.com/shixuan-fan))
-* Jiexi Lin ([jessesleeping](https://github.com/jessesleeping))
-* Zhenxiao Luo ([zhenxiao](https://github.com/zhenxiao))
-* Andrii Rosa ([arhimondr](https://github.com/arhimondr))
-* Rebecca Schlussel ([rschlussel](https://github.com/rschlussel))
-* James Sun ([highker](https://github.com/highker))
-* Wenlei Xie ([wenleix](https://github.com/wenleix))
-* Rongrong Zhong ([rongrong](https://github.com/rongrong))
+| Name                      | Github                                              | Affiliation | Term begins  | Term ends    |
+| ------------------------- | --------------------------------------------------- | ------------|--------------|--------------|
+| Nezih Yigitbasi (chair)   |[@nezihyigitbasi](https://github.com/nezihyigitbasi) | Facebook    | 1 Jan, 2020  | TBD          |
+| Masha Basmanova           |[mbasmanova](https://github.com/mbasmanova)          | Facebook    | 1 Jan, 2020  | TBD          |
+| Zhenxiao Luo              |[zhenxiao](https://github.com/zhenxiao)              | Twitter     | 1 Jan, 2020  | TBD          |
+| Andrii Rosa               |[arhimondr](https://github.com/arhimondr)            | Facebook    | 1 Jan, 2020  | TBD          |
+| Rebecca Schlussel         |[rschlussel](https://.github.com/rschlussel)         | Facebook    | 1 Jan, 2020  | TBD          |
+| James Sun                 |[highker](https://github.com/highker)                | Facebook    | 1 Jan, 2020  | TBD          |
+| Wenlei Xie                |[wenleix](https://github.com/wenleix)                | Facebook    | 1 Jan, 2020  | TBD          |
+| Rongrong Zhong            |[rongrong](https://github.com/rongrong)              | Facebook    | 1 Jan, 2020  | TBD          |
+| Shixuan Fan               |[shixuan-fan](https://github.com/shixuan-fan)        | Facebook    | 1 Jan, 2020  | TBD          |
+| Jiexi Lin                 |[jessesleeping](https://github.com/jessesleeping)    | Facebook    | 1 Jan, 2020  | TBD          |
 
-The current TSC chair is Nezih Yigitbasi ([@nezihyigitbasi](https://github.com/nezihyigitbasi)).
+Per the [Technical Charter](CHARTER.md), when there are less than six related companies represented on the TSC, the employees of each company may only submit one vote on TSC decisions where voting is required.
+
