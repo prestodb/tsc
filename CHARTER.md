@@ -55,6 +55,8 @@ h. Responsibilities: The TSC will be responsible for all aspects of oversight re
 
 &nbsp;&nbsp;&nbsp;&nbsp;ix. coordinating any marketing, events, or communications regarding the Project.
 
+i. The total number of TSC members shall not exceed fifteen (15), unless the TSC sets a new maximum limit by supermajority vote.
+
 ### 3. TSC Voting
 
 a. While the Project aims to operate as a consensus-based community, if any TSC decision requires a vote to move the Project forward, the voting members of the TSC will vote on a one vote per voting member (committer) basis. If there are less than six (6) Related Company Groups, no Related Company Group shall submit more than one vote on the TSC, for example:
