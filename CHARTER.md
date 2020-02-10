@@ -71,6 +71,8 @@ c. Except as provided in Section 8.c. and 9.a, decisions by vote at a meeting re
 
 d. In the event a vote cannot be resolved by the TSC, any voting member of the TSC may refer the matter to the Governing Board or the Series Manager for assistance in reaching a resolution.
 
+e. Except as provided in Section 8.c. and 9.a, a TSC member who has not attended three or more consecutive meetings shall not be considered a voting member. A TSC member's voting status may be restored by attending two consecutive meetings.
+
 ### 4. Compliance with Policies 
 
 a. This Charter is subject to the Series Agreement for the Project and the Operating Agreement of LF Projects. Contributors will comply with the policies of LF Projects as may be adopted and amended by LF Projects, including, without limitation the policies listed at https://lfprojects.org/policies/.  
