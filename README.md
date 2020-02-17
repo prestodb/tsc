@@ -42,6 +42,7 @@ The current members of the Presto TSC are:
 | Rongrong Zhong            |[rongrong](https://github.com/rongrong)              | Facebook    | 1 Jan, 2020  | TBD          |
 | Shixuan Fan               |[shixuan-fan](https://github.com/shixuan-fan)        | Facebook    | 1 Jan, 2020  | TBD          |
 | Jiexi Lin                 |[jessesleeping](https://github.com/jessesleeping)    | Facebook    | 1 Jan, 2020  | TBD          |
+| Venki Korukanti           |[vkorukanti](https://github.com/vkorukanti)          | Uber        | 14 Feb, 2020  | TBD         |
 
 Per the [Technical Charter](CHARTER.md), when there are less than six related companies represented on the TSC, the employees of each company may only submit one vote on TSC decisions where voting is required.
 
