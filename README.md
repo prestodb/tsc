@@ -77,7 +77,7 @@ The incoming class shall be announced by December 15th, and their term will begi
 
 ### Changing the composition of the TSC
 
-The TSC may increase or reduce the number of voting members at election time, provided that an attempt is made to ensure the classes remain balanced.
+Per the [Charter](CHARTER.md), the TSC may change the maximum number of TSC members by supermajority vote.  In general, the TSC will attempt to make changes to the maximum number of voting members at election time, to ensure the classes remain balanced.
 
 ### Resignation of TSC voting members
 
