@@ -14,7 +14,7 @@ The TSC for Presto Foundation can be reached at their [mailing list](https://lis
 
 ### Slack
 
-The Presto Foundation maintains a [Slack Workspace](https://join.slack.com/t/prestodb/shared_invite/enQtNTQ3NjU2MTYyNDA2LTYyOTg3MzUyMWE1YTI3Njc5YjgxZjNiYTgxODAzYjI5YWMwYWE0MTZjYWFhNGMwNjczYjI3N2JhM2ExMGJlMWM) for communication and collaboration. The [Presto Foundation Slack Workspace](https://join.slack.com/t/prestodb/shared_invite/enQtNTQ3NjU2MTYyNDA2LTYyOTg3MzUyMWE1YTI3Njc5YjgxZjNiYTgxODAzYjI5YWMwYWE0MTZjYWFhNGMwNjczYjI3N2JhM2ExMGJlMWM) is open for anyone to join. 
+The Presto Foundation maintains a [Slack Workspace](https://join.slack.com/t/prestodb/shared_invite/enQtNTQ3NjU2MTYyNDA2LTYyOTg3MzUyMWE1YTI3Njc5YjgxZjNiYTgxODAzYjI5YWMwYWE0MTZjYWFhNGMwNjczYjI3N2JhM2ExMGJlMWM) for communication and collaboration. The [Presto Foundation Slack Workspace](https://join.slack.com/t/prestodb/shared_invite/enQtNTQ3NjU2MTYyNDA2LTYyOTg3MzUyMWE1YTI3Njc5YjgxZjNiYTgxODAzYjI5YWMwYWE0MTZjYWFhNGMwNjczYjI3N2JhM2ExMGJlMWM) is open for anyone to join.
 
 Once you join the The [Presto Foundation Slack Workspace](https://join.slack.com/t/prestodb/shared_invite/enQtNTQ3NjU2MTYyNDA2LTYyOTg3MzUyMWE1YTI3Njc5YjgxZjNiYTgxODAzYjI5YWMwYWE0MTZjYWFhNGMwNjczYjI3N2JhM2ExMGJlMWM), you can participate in any public channels.
 
@@ -43,6 +43,7 @@ The current members of the Presto TSC are:
 | Shixuan Fan               |[shixuan-fan](https://github.com/shixuan-fan)        | Facebook    | 1 Jan, 2020  | TBD          |
 | Jiexi Lin                 |[jessesleeping](https://github.com/jessesleeping)    | Facebook    | 1 Jan, 2020  | TBD          |
 | Venki Korukanti           |[vkorukanti](https://github.com/vkorukanti)          | Uber        | 14 Feb, 2020  | TBD         |
+| Leiqing Cai               |[caithagoras](https://github.com/caithagoras)        | Facebook    | 14 Feb, 2020  | TBD         |
 
 Per the [Technical Charter](CHARTER.md), when there are less than six related companies represented on the TSC, the employees of each company may only submit one vote on TSC decisions where voting is required.
 
