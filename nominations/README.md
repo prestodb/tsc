@@ -12,8 +12,7 @@ In your response, please focus on succinct summaries of the most impactful aspec
 
 ## Self-Nomination Template
 
-
-
+```markdown
 # TSC Nomination: (your name), (year)
 
 ### Candidate information
@@ -43,3 +42,5 @@ In your response, please focus on succinct summaries of the most impactful aspec
 ### Is there anything else the voting members should consider?
 
 *(Are there any aspects of your contribution to the Presto ecosystem which are not addressed above, and which should be considered as part of your nomination?)*
+
+```

@@ -57,7 +57,7 @@ For simplicity, membership terms will be aligned to the calendar year, and will 
 
 ### Becoming a TSC Member
 
-The Technical Charter specifies that TSC voting members are initially the Presto committers.  Prior to each election, the TSC will determine the number of available seats and solicit nominations from the community.  The TSC has primary responsibility for ensuring there are sufficient candidates to fill each available seat.
+The Technical Charter specifies that TSC voting members are initially the Presto committers.  Prior to each election, the TSC will determine the number of available seats and [solicit nominations from the community](./nominations/README.md).  The TSC has primary responsibility for ensuring there are sufficient candidates to fill each available seat.
 
 #### Eligibility
 
