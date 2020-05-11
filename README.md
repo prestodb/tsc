@@ -71,7 +71,7 @@ Nominations and self-nominations shall be sent to the [presto-dev mailing list](
 
 #### Election procedure
 
-The existing Presto TSC members (including the class whose term expires at the end of the year) shall vote using the [Condorcet method](https://civs.cs.cornell.edu/) by December 1st.
+The existing Presto TSC members (including the class whose term expires at the end of the year) shall vote using the [Condorcet method](https://civs.cs.cornell.edu/) by December 1st, subject to the voting requirements outlined in the [charter](CHARTER.md#3-tsc-voting).
 
 The incoming class shall be announced by December 15th, and their term will begin January 1st of the following year.
 
