@@ -63,11 +63,11 @@ i. The total number of TSC members shall not exceed fifteen (15), unless the TSC
 
 ### 3. TSC Voting
 
-a. While the Project aims to operate as a consensus-based community, if any TSC decision requires a vote to move the Project forward, the voting members of the TSC will vote on a one vote per voting member (committer) basis. If there are less than six (6) Related Company Groups, no Related Company Group shall submit more than one vote on the TSC, for example:
+a. While the Project aims to operate as a consensus-based community, if any TSC decision requires a vote to move the Project forward, the voting members of the TSC will vote on a one vote per voting member basis. If there are less than six (6) Related Company Groups, no Related Company Group shall submit more than one vote on the TSC, for example:
 
 &nbsp;&nbsp;&nbsp;&nbsp;i. When there are less than six Related Company Groups represented on the TSC, no one Related Company Group will submit more than one vote when a TSC decision requires a vote.
 
-&nbsp;&nbsp;&nbsp;&nbsp;ii. When there are six or more Related Company Groups represented on the TSC, all voting members (committers) will have an equal vote on the TSC.
+&nbsp;&nbsp;&nbsp;&nbsp;ii. When there are six or more Related Company Groups represented on the TSC, all voting members will have an equal vote on the TSC.
 
 b. Quorum for TSC meetings requires at least fifty percent of all voting members of the TSC to be present. The TSC may continue to meet if quorum is not met but will be prevented from making any decisions at the meeting.
 
