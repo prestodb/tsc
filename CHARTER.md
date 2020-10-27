@@ -29,7 +29,7 @@ d. TSC projects generally will involve Contributors and Committers. The TSC may 
 
 &nbsp;&nbsp;&nbsp;&nbsp;iii. A Contributor may become a Committer by a majority approval of the existing Committers. A Committer may be removed by a majority approval of the other existing Committers.
 
-&nbsp;&nbsp;&nbsp;&nbsp;iv. A Committer by default is not a voting TSC member. An existing TSC voting member can nominate a Committer to be a TSC voting member, which will also require approval from the majority of existing TSC voting members.
+&nbsp;&nbsp;&nbsp;&nbsp;iv. A Committer by default is not a voting TSC member. An existing TSC voting member can nominate a Committer to be a TSC voting member, which will require approval from the majority of existing TSC voting members.
 
 e. Participation in the Project through becoming a Contributor and Committer is open to anyone so long as they abide by the terms of this Charter. Adding new Committers or removing Committers requires a two-thirds approval of the TSC.
 
