@@ -17,9 +17,11 @@ b. The scope of the Project includes collaborative development under the Project
 
 a. The Technical Steering Committee (the "TSC") will be responsible for all technical oversight of the open source Project. 
 
-b. The TSC voting members are initially the Project’s Committers. At the inception of the project, the Committers of the Project will be as set forth within the "CONTRIBUTING" file within the Project’s code repository. The TSC may choose an alternative approach for determining the voting members of the TSC, and any such alternative approach will be documented in the CONTRIBUTING file.  Any meetings of the Technical Steering Committee are intended to be open to the public, and can be conducted electronically, via teleconference, or in person. 
+b. The TSC will consist of two formal roles a - TSC voting members and Project Committers. 
 
-c. TSC projects generally will involve Contributors and Committers. The TSC may adopt or modify roles so long as the roles are documented in the CONTRIBUTING file. Unless otherwise documented: 
+c. The TSC voting members are initially the Project’s Committers. At the inception of the project, the Committers of the Project will be as set forth within the "CONTRIBUTING" file within the Project’s code repository. The TSC may choose an alternative approach for determining the voting members of the TSC, and any such alternative approach will be documented in the CONTRIBUTING file.  Any meetings of the Technical Steering Committee are intended to be open to the public, and can be conducted electronically, via teleconference, or in person. 
+
+d. TSC projects generally will involve Contributors and Committers. The TSC may adopt or modify roles so long as the roles are documented in the CONTRIBUTING file. Unless otherwise documented: 
 
 &nbsp;&nbsp;&nbsp;&nbsp;i. Contributors include anyone in the technical community that contributes code, documentation, or other technical artifacts to the Project; 
 
@@ -27,15 +29,17 @@ c. TSC projects generally will involve Contributors and Committers. The TSC may 
 
 &nbsp;&nbsp;&nbsp;&nbsp;iii. A Contributor may become a Committer by a majority approval of the existing Committers. A Committer may be removed by a majority approval of the other existing Committers.
 
-d. Participation in the Project through becoming a Contributor and Committer is open to anyone so long as they abide by the terms of this Charter. Adding new Committers or removing Committers requires a two-thirds approval of the TSC.
+&nbsp;&nbsp;&nbsp;&nbsp;iv. A Project Committer by default is not a voting TSC member. An existing TSC voting member can nominate a Committer to be a TSC voting member, which will also require approval from the majority of existing TSC voting members.
 
-e. The TSC may (1) establish work flow procedures for the submission, approval, and closure/archiving of projects, (2) set requirements for the promotion of Contributors to Committer status, as applicable, and (3) amend, adjust, refine and/or eliminate the roles of Contributors, and Committers, and create new roles, and publicly document any TSC roles, as it sees fit.
+e. Participation in the Project through becoming a Contributor and Committer is open to anyone so long as they abide by the terms of this Charter. Adding new Committers or removing Committers requires a two-thirds approval of the TSC.
 
-f. Unless the TSC decides otherwise, committers will operate using the Lazy Consensus method. (NOTE:  https://wiki.eclipse.org/Lazy_Consensus)
+f. The TSC may (1) establish work flow procedures for the submission, approval, and closure/archiving of projects, (2) set requirements for the promotion of Contributors to Committer status, as applicable, and (3) amend, adjust, refine and/or eliminate the roles of Contributors, and Committers, and create new roles, and publicly document any TSC roles, as it sees fit.
 
-g. The TSC may elect a TSC Chair, who will preside over meetings of the TSC and will serve until their resignation or replacement by the TSC. The TSC Chair, or any other TSC member so designated by the TSC, will serve as the primary communication contact between the Project and the Presto Foundation Fund Governing Board of the Linux Foundation ("Governing Board").
+g. Unless the TSC decides otherwise, committers will operate using the Lazy Consensus method. (NOTE:  https://wiki.eclipse.org/Lazy_Consensus)
 
-h. Responsibilities: The TSC will be responsible for all aspects of oversight relating to the Project, which may include:
+h. The TSC may elect a TSC Chair, who will preside over meetings of the TSC and will serve until their resignation or replacement by the TSC. The TSC Chair, or any other TSC member so designated by the TSC, will serve as the primary communication contact between the Project and the Presto Foundation Fund Governing Board of the Linux Foundation ("Governing Board").
+
+i. Responsibilities: The TSC will be responsible for all aspects of oversight relating to the Project, which may include:
 
 &nbsp;&nbsp;&nbsp;&nbsp;i. coordinating the technical direction of the Project;
 
