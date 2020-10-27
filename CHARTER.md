@@ -17,7 +17,7 @@ b. The scope of the Project includes collaborative development under the Project
 
 a. The Technical Steering Committee (the "TSC") will be responsible for all technical oversight of the open source Project. 
 
-b. The TSC will consist of two formal roles a - TSC voting members and Project Committers. 
+b. The TSC will consist of two roles - TSC voting members and Committers. 
 
 c. The TSC voting members are initially the Project’s Committers. At the inception of the project, the Committers of the Project will be as set forth within the "CONTRIBUTING" file within the Project’s code repository. The TSC may choose an alternative approach for determining the voting members of the TSC, and any such alternative approach will be documented in the CONTRIBUTING file.  Any meetings of the Technical Steering Committee are intended to be open to the public, and can be conducted electronically, via teleconference, or in person. 
 
@@ -132,4 +132,3 @@ d. Contributed files should contain license information, such as SPDX short form
 ### 9. Amendments
 
 a) This charter may be amended by a two-thirds vote of the entire TSC and is subject to approval by LF Projects.
-
