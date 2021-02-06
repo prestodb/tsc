@@ -22,6 +22,9 @@ Once you join the The [Presto Foundation Slack Workspace](https://join.slack.com
 
 The Presto Foundation maintains a [public calendar](https://calendar.google.com/calendar/embed?src=linuxfoundation.org_vrjlva5b0u73ps75fvnv5sasi4%40group.calendar.google.com&ctz=America%2FChicago) for TSC meetings. These meetings are open for anyone to join.
 
+### CLA
+
+Everyone must sign the Presto CLA prior to making a contribution. You may either sign the CLA on your own, or your company can sign it for you. At a high level, if you aren't covered by a CLA, you will be notified the first time you open a PR. Please see our [documentation on the process](./CLA.md).
 
 ## Members
 
