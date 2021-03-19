@@ -3,7 +3,7 @@
 
 ---
 
-**Adopted September 16, 2019**
+**Adopted September 16, 2019 / Last amended November 6, 2020**
 
 This charter (the "Charter") sets forth the responsibilities and procedures for technical contribution to, and oversight of, the Presto project, which has been established as Presto Project a Series of LF Projects, LLC (the “Project”).  LF Projects, LLC (“LF Projects”) is a Delaware series limited liability company. All contributors (including committers, maintainers, and other technical positions) and other participants in the Project (collectively, “Collaborators”) must comply with the terms of this Charter. 
 
