@@ -28,7 +28,7 @@ Everyone must sign the Presto CLA prior to making a contribution. You may either
 
 ## Members
 
-The TSC voting members are initially the [Project’s Committers](https://github.com/prestodb/presto/wiki/committers), and the current TSC chair is Nezih Yigitbasi ([@nezihyigitbasi](https://github.com/nezihyigitbasi)). At the inception of the project, the Committers of the Project will be as set forth within the "CONTRIBUTING" file within the Project’s code repository
+The TSC voting members are initially the [Project’s Committers](https://github.com/prestodb/presto/wiki/committers), and the current TSC chair is Tim Meehan ([@tdcmeehan](https://github.com/tdcmeehan)). At the inception of the project, the Committers of the Project will be as set forth within the "CONTRIBUTING" file within the Project’s code repository
 
 https://github.com/prestodb/presto/blob/master/CONTRIBUTING.md
 
