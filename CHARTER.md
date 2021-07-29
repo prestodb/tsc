@@ -27,11 +27,11 @@ d. TSC projects generally will involve Contributors and Committers. The TSC may 
 
 &nbsp;&nbsp;&nbsp;&nbsp;ii. Committers are Contributors who have earned the ability to modify ("commit") source code, documentation or other technical artifacts in a project’s repository; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;iii. A Contributor may become a Committer by a majority approval of the existing Committers. A Committer may be removed by a majority approval of the other existing Committers.
+&nbsp;&nbsp;&nbsp;&nbsp;iii. A Contributor may become a Committer by a majority approval of the TSC. A Committer may be removed by a majority approval of the TSC.
 
 &nbsp;&nbsp;&nbsp;&nbsp;iv. A Committer by default is not a voting TSC member. An existing TSC voting member can nominate a Committer to be a TSC voting member, which will require approval from the majority of existing TSC voting members.
 
-e. Participation in the Project through becoming a Contributor and Committer is open to anyone so long as they abide by the terms of this Charter. Adding new Committers or removing Committers requires a two-thirds approval of the TSC.
+e. Participation in the Project through becoming a Contributor and Committer is open to anyone so long as they abide by the terms of this Charter.
 
 f. The TSC may (1) establish work flow procedures for the submission, approval, and closure/archiving of projects, (2) set requirements for the promotion of Contributors to Committer status, as applicable, and (3) amend, adjust, refine and/or eliminate the roles of Contributors, and Committers, and create new roles, and publicly document any TSC roles, as it sees fit.
 
@@ -59,7 +59,9 @@ i. Responsibilities: The TSC will be responsible for all aspects of oversight re
 
 &nbsp;&nbsp;&nbsp;&nbsp;ix. coordinating any marketing, events, or communications regarding the Project.
 
-i. The total number of TSC members shall not exceed fifteen (15), unless the TSC sets a new maximum limit by supermajority vote.
+j. A TSC member may be voted to be removed from the TSC by a two-thirds vote of the entire TSC.
+
+k. A TSC member may resign by submitting their resignation to the TSC [mailing list](mailto:presto-tsc@lists.prestodb.io).
 
 ### 3. TSC Voting
 
@@ -71,9 +73,44 @@ a. While the Project aims to operate as a consensus-based community, if any TSC 
 
 b. Quorum for TSC meetings requires at least fifty percent of all voting members of the TSC to be present. The TSC may continue to meet if quorum is not met but will be prevented from making any decisions at the meeting.
 
-c. Except as provided in Section 8.c. and 9.a, decisions by vote at a meeting requires a majority vote of those in attendance, provided a quorum is met. Decisions made by electronic vote without a meeting requires a majority vote of all voting members of the TSC.
+c. Except as provided in Section 2.j, 8.c. and 9.a, decisions by vote at a meeting requires a majority vote of those in attendance, provided a quorum is met. Decisions made by electronic vote without a meeting requires a lazy consensus of all voting members of the TSC.
 
 d. In the event a vote cannot be resolved by the TSC, any voting member of the TSC may refer the matter to the Governing Board or the Series Manager for assistance in reaching a resolution.
+
+e. The legacy voting members are:
+
+| Name              | Github                                            | Term End           |
+| ----------------- | ------------------------------------------------- | ------------------ |
+| Masha Basmanova   |[mbasmanova](https://github.com/mbasmanova)        | October 31, 2021   |
+| Zhenxiao Luo      |[zhenxiao](https://github.com/zhenxiao)            | October 31, 2021   |
+| Andrii Rosa       |[arhimondr](https://github.com/arhimondr)          | October 31, 2021   |
+| Rebecca Schlussel |[rschlussel](https://.github.com/rschlussel)       | October 31, 2021   |
+| James Sun         |[highker](https://github.com/highker)              | October 31, 2021   |
+| Wenlei Xie        |[wenleix](https://github.com/wenleix)              | October 31, 2021   |
+| Rongrong Zhong    |[rongrong](https://github.com/rongrong)            | October 31, 2021   |
+| Shixuan Fan       |[shixuan-fan](https://github.com/shixuan-fan)      | October 31, 2021   |
+| Jiexi Lin         |[jessesleeping](https://github.com/jessesleeping)  | October 31, 2021   |
+| Leiqing Cai       |[caithagoras](https://github.com/caithagoras)      | October 31, 2021   |
+| Tim Meehan        |[tdcmeehan](https://github.com/tdcmeehan)          | October 31, 2021   |
+| Nezih Yigitbasi   |[nezihyigitbasi](https://github.com/nezihyigitbasi)| October 31, 2021   |
+| Venki Korukanti   |[vkorukanti](https://github.com/vkorukanti)        | October 31, 2021   |
+| Bin Fan           |[apc999](https://github.com/apc999)                | October 31, 2021   |
+
+Legacy members will have terms that expire on October 31, 2021.  Going forward after their term expires, there will be 7 seats open for TSC members.  Their term duration is set below:
+
+| Name | Github | Term Begin       | Term End         | Term Duration |
+| ---- | ------ | ---------------- | ---------------- | ------------- |
+| ???  | ???    | November 1, 2021 | November 1, 2022 | 1 year        |
+| ???  | ???    | November 1, 2021 | May 1, 2023      | 1 year        |
+| ???  | ???    | November 1, 2021 | November 1, 2022 | 1 year        |
+| ???  | ???    | November 1, 2021 | May 1, 2023      | 1 year        |
+| ???  | ???    | November 1, 2021 | November 1, 2022 | 1 year        |
+| ???  | ???    | November 1, 2021 | May 1, 2023      | 1 year        |
+| ???  | ???    | November 1, 2021 | November 1, 2022 | 1 year        |
+
+f. TSC members will have term limits set.  For the initial election occurring on October 31, 2021, all TSC voting members are eligible to cast a vote for the incoming TSC.  Going forward, only members whose seats are not up for re-election may vote for the incoming class.
+
+g. If a TSC member resigns, then an election may be held to fulfil the seat vacated.
 
 ### 4. Compliance with Policies 
 
