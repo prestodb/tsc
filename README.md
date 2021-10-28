@@ -2,6 +2,27 @@
 
 The Presto TSC will be responsible for all technical oversight of the open source Project. 
 
+## 2021 Elections
+
+Elections are now open for all TSC seats.  If you'd like to nominate yourself, please fill out the following template and send to [operations@prestodb.io](mailto:operations@prestodb.io):
+
+```
+# TSC self-nomination
+
+**Name:**
+**Email:**
+
+### Please provide 2-3 sentences on your involvement in the Presto project
+
+### Please provide 3-6 sentences on what you aspire to achieve on the TSC
+
+### Do you currently hold any formal leadership roles within the Presto community?
+
+### Do you commit to attending the monthly TSC calls?
+```
+
+Nominations will be accepted through **Thursday, November 4th, 2021**.
+
 ## Presto Technical Charter
 
 The Presto Technical Charter is located in [CHARTER.md](CHARTER.md)
