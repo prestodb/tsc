@@ -77,36 +77,7 @@ c. Except as provided in Section 2.j, 8.c. and 9.a, decisions by vote at a meeti
 
 d. In the event a vote cannot be resolved by the TSC, any voting member of the TSC may refer the matter to the Governing Board or the Series Manager for assistance in reaching a resolution.
 
-e. The legacy voting members are:
-
-| Name              | Github                                            | Term End           |
-| ----------------- | ------------------------------------------------- | ------------------ |
-| Masha Basmanova   |[mbasmanova](https://github.com/mbasmanova)        | October 31, 2021   |
-| Zhenxiao Luo      |[zhenxiao](https://github.com/zhenxiao)            | October 31, 2021   |
-| Andrii Rosa       |[arhimondr](https://github.com/arhimondr)          | October 31, 2021   |
-| Rebecca Schlussel |[rschlussel](https://.github.com/rschlussel)       | October 31, 2021   |
-| James Sun         |[highker](https://github.com/highker)              | October 31, 2021   |
-| Wenlei Xie        |[wenleix](https://github.com/wenleix)              | October 31, 2021   |
-| Rongrong Zhong    |[rongrong](https://github.com/rongrong)            | October 31, 2021   |
-| Shixuan Fan       |[shixuan-fan](https://github.com/shixuan-fan)      | October 31, 2021   |
-| Jiexi Lin         |[jessesleeping](https://github.com/jessesleeping)  | October 31, 2021   |
-| Leiqing Cai       |[caithagoras](https://github.com/caithagoras)      | October 31, 2021   |
-| Tim Meehan        |[tdcmeehan](https://github.com/tdcmeehan)          | October 31, 2021   |
-| Nezih Yigitbasi   |[nezihyigitbasi](https://github.com/nezihyigitbasi)| October 31, 2021   |
-| Venki Korukanti   |[vkorukanti](https://github.com/vkorukanti)        | October 31, 2021   |
-| Bin Fan           |[apc999](https://github.com/apc999)                | October 31, 2021   |
-
-Legacy members will have terms that expire on October 31, 2021.  Going forward after their term expires, there will be 7 seats open for TSC members.  Their term duration is set below:
-
-| Name | Github | Term Begin       | Term End         | Term Duration |
-| ---- | ------ | ---------------- | ---------------- | ------------- |
-| ???  | ???    | November 1, 2021 | November 1, 2022 | 1 year        |
-| ???  | ???    | November 1, 2021 | May 1, 2023      | 1 year        |
-| ???  | ???    | November 1, 2021 | November 1, 2022 | 1 year        |
-| ???  | ???    | November 1, 2021 | May 1, 2023      | 1 year        |
-| ???  | ???    | November 1, 2021 | November 1, 2022 | 1 year        |
-| ???  | ???    | November 1, 2021 | May 1, 2023      | 1 year        |
-| ???  | ???    | November 1, 2021 | November 1, 2022 | 1 year        |
+e. The voting members and their terms are listed in the [TSC repo](../README.md#members).
 
 f. TSC members will have term limits set.  For the initial election occurring on October 31, 2021, all TSC voting members are eligible to cast a vote for the incoming TSC.  Going forward, only members whose seats are not up for re-election may vote for the incoming class.
 
