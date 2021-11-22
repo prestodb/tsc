@@ -49,11 +49,11 @@ If you are doing work for someone else (e.g., it's your job), the company might 
 
 ### When your company has finished signing the agreement
 
-1. Once the agreement is signed, any CLA manager can [log into the EasyCLA site](https://easycla.lfx.linuxfoundation.org/#/) (choose EasyCLA v1) and either:
+1. Once the agreement is signed, any CLA manager can [log into the EasyCLA site](http://organization.lfx.linuxfoundation.org/) and either:
   * Add your GitHub username individually to the list of authorized contributors, or
   * Authorize any GitHub user with an email matching the corporate domain, or
   * Authorize any user who is a member of your company's GitHub org.
-2. Once this is done, you'll probably need to click the *Details* link in the PR and click a button that acknowledges you want to be covered by the company.
+2. Once this is done, you'll need to click the *Details* link in the PR and click a button that acknowledges you want to be covered by the company.
 3. Wait a little while for the check to re-run.
 
 At this point, your PRs will no longer be blocked by EasyCLA on any Presto repo.
@@ -64,6 +64,6 @@ At this point, your PRs will no longer be blocked by EasyCLA on any Presto repo.
 
 ## Getting help
 
-If your company is in the system but you don't know who your CLA manager is, you can email [operations@prestodb.io](mailto:operations@prestodb.io).
+If your company is in the system but you don't know who your CLA manager is, you can email [operations@prestodb.io](mailto:operations@prestodb.io). If you think everything is correctly signed but the PR hasn't been re-checked, you can force EasyCLA to run by commenting `/easycla`.
 
 If you run into issues, you can [open a ticket in JIRA](https://jira.linuxfoundation.org/plugins/servlet/theme/portal/4/create/143).
