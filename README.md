@@ -2,27 +2,6 @@
 
 The Presto TSC will be responsible for all technical oversight of the open source Project.
 
-## 2021 Elections
-
-Elections are now open for all TSC seats.  If you'd like to nominate yourself, please fill out the following template and send to [operations@prestodb.io](mailto:operations@prestodb.io):
-
-```
-# TSC self-nomination
-
-**Name:**
-**Email:**
-
-### Please provide 2-3 sentences on your involvement in the Presto project
-
-### Please provide 3-6 sentences on what you aspire to achieve on the TSC
-
-### Do you currently hold any formal leadership roles within the Presto community?
-
-### Do you commit to attending the monthly TSC calls?
-```
-
-Nominations will be accepted through **Thursday, November 4th, 2021**.
-
 ## Presto Technical Charter
 
 The Presto Technical Charter is located in [CHARTER.md](CHARTER.md)
@@ -47,9 +26,23 @@ Everyone must sign the Presto CLA prior to making a contribution. You may either
 
 ## Members
 
-The TSC voting members are initially the [Project’s Committers](https://github.com/prestodb/presto/wiki/committers), and the current TSC chair is Tim Meehan ([@tdcmeehan](https://github.com/tdcmeehan)). At the inception of the project, the Committers of the Project will be as set forth within the "CONTRIBUTING" file within the Project’s code repository
+The current members of the Presto TSC are:
 
-https://github.com/prestodb/presto/blob/master/CONTRIBUTING.md
+| Name | Github | Term begins | Term ends | Affiliation |
+| ---- | ------ | ------------|-------------|-----------|
+| Bin Fan  | apc99 | November 1, 2021 | TBD | Alluxio |
+| James Sun  | highker | November 1, 2021 | TBD | Facebook |
+| Rebecca Schlussel | rschlussel | November 1, 2021 | TBD | Facebook |
+| Rongrong Zhong | rongrong | November 1, 2021 | TBD | Facebook |
+| Tim Meehan  | tdcmeehan | November 1, 2021 | TBD | Facebook |
+| Ying Su  | yingsu00 | November 1, 2021 | TBD | Ahana Cloud |
+| Zhenxiao Luo  | zhenxiao | November 1, 2021 | TBD | Twitter |
+
+TSC membership is open to Presto project committers. Prior to each election, candidates must submit a [self-nomination form](./elections/SELF_NOMINATION_TEMPLATE.md).
+
+Beginning in 2021, the TSC has seven seats. Per the charter, TSC voting member terms are one year and elections occur semi-annually. To establish the semi-annual cadence, three TSC members will be selected by coin toss to serve an initial 1.5 year term. 
+
+The voting process is described in the [TSC charter](https://github.com/prestodb/tsc/blob/master/CHARTER.md#3-tsc-voting).
 
 ## Policies and procedures
 
