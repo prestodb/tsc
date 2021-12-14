@@ -30,13 +30,13 @@ The current members of the Presto TSC are:
 
 | Name | Github | Term begins | Term ends | Affiliation |
 | ---- | ------ | ------------|-------------|-----------|
-| Bin Fan  | apc99 | November 1, 2021 | TBD | Alluxio |
-| James Sun  | highker | November 1, 2021 | TBD | Facebook |
-| Rebecca Schlussel | rschlussel | November 1, 2021 | TBD | Facebook |
-| Rongrong Zhong | rongrong | November 1, 2021 | TBD | Facebook |
-| Tim Meehan  | tdcmeehan | November 1, 2021 | TBD | Facebook |
-| Ying Su  | yingsu00 | November 1, 2021 | TBD | Ahana Cloud |
-| Zhenxiao Luo  | zhenxiao | November 1, 2021 | TBD | Twitter |
+| Bin Fan  | apc99 | November 1, 2021 | November 1, 2022 | Alluxio |
+| James Sun  | highker | November 1, 2021 | November 1, 2022 | Facebook |
+| Rebecca Schlussel | rschlussel | November 1, 2021 | May 1, 2023 | Facebook |
+| Rongrong Zhong | rongrong | November 1, 2021 | May 1, 2023 | Facebook |
+| Ying Su  | yingsu00 | November 1, 2021 | November 1, 2022 | Ahana Cloud |
+| Zhenxiao Luo  | zhenxiao | November 1, 2021 | May 1, 2023 | Twitter |
+| Tim Meehan  | tdcmeehan | November 1, 2021 | November 1, 2022 | Facebook |
 
 TSC membership is open to Presto project committers. Prior to each election, candidates must submit a [self-nomination form](./elections/SELF_NOMINATION_TEMPLATE.md).
 
