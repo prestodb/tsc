@@ -65,11 +65,7 @@ k. A TSC member may resign by submitting their resignation to the TSC [mailing l
 
 ### 3. TSC Voting
 
-a. While the Project aims to operate as a consensus-based community, if any TSC decision requires a vote to move the Project forward, the voting members of the TSC will vote on a one vote per voting member basis. If there are less than six (6) Related Company Groups, no Related Company Group shall submit more than one vote on the TSC, for example:
-
-&nbsp;&nbsp;&nbsp;&nbsp;i. When there are less than six Related Company Groups represented on the TSC, no one Related Company Group will submit more than one vote when a TSC decision requires a vote.
-
-&nbsp;&nbsp;&nbsp;&nbsp;ii. When there are six or more Related Company Groups represented on the TSC, all voting members will have an equal vote on the TSC.
+a. While the Project aims to operate as a consensus-based community, if any TSC decision requires a vote to move the Project forward, the voting members of the TSC will vote on a one vote per voting member basis.
 
 b. Quorum for TSC meetings requires at least fifty percent of all voting members of the TSC to be present. The TSC may continue to meet if quorum is not met but will be prevented from making any decisions at the meeting.
 
