@@ -35,9 +35,9 @@ The current members of the Presto TSC are:
 | Tim Meehan  | tdcmeehan | January 10, 2023 | November 1, 2023 | Ahana Cloud |
 | Ying Su  | yingsu00 | January 10, 2023 | November 1, 2023 | Ahana Cloud |
 | Aditi Pandit | aditi-pandit | June 21, 2023 | November 1, 2023 | Ahana Cloud |
-| Rebecca Schlussel | rschlussel | June 21, 2023 | May 1, 2023 | Meta |
-| Beinan Wang | beinan | June 21, 2023 | May 1, 2023 | Alluxio |
-| Zhenxiao Luo  | zhenxiao | June 21, 2023 | May 1, 2023 | Pinterest |
+| Rebecca Schlussel | rschlussel | June 21, 2023 | May 1, 2024 | Meta |
+| Beinan Wang | beinan | June 21, 2023 | May 1, 2024 | Alluxio |
+| Zhenxiao Luo  | zhenxiao | June 21, 2023 | May 1, 2024 | Pinterest |
 | Xiaoxuan Meng | xiaoxmeng | June 21, 2023 | May 1, 2024 | Meta |
 
 TSC membership is open to Presto project committers. Prior to each election, candidates must submit a [self-nomination form](./elections/SELF_NOMINATION_TEMPLATE.md).
