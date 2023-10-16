@@ -75,9 +75,9 @@ d. In the event a vote cannot be resolved by the TSC, any voting member of the T
 
 e. The voting members and their terms are listed in the [TSC repo](../README.md#members).
 
-f. TSC members will have term limits set.  For the initial election occurring on October 31, 2021, all TSC voting members are eligible to cast a vote for the incoming TSC.  Going forward, only members whose seats are not up for re-election may vote for the incoming class.
+f. TSC members will have term limits set.  All TSC voting members are eligible to cast a vote for the incoming TSC.  TSC voting members whose seats have expired continue to be TSC voting members until the seat is filled by vote.
 
-g. If a TSC member resigns, then an election may be held to fulfil the seat vacated.
+g. If a TSC member resigns, then an election may be held to fulfil the seat vacated.  TSC members who have resigned cease to be TSC voting members and are not eligible to cast a vote for seat vacancies.
 
 ### 4. Compliance with Policies 
 
