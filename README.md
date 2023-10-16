@@ -30,11 +30,11 @@ The current members of the Presto TSC are:
 
 | Name | Github | Term begins | Term ends | Affiliation |
 | ---- | ------ | ------------|-------------|-----------|
-| Deepak Majeti  | majetideepak | January 10, 2023 | November 1, 2023 | Ahana Cloud |
-| James Sun  | highker | January 23, 2023 | November 1, 2023 | Meta |
-| Tim Meehan  | tdcmeehan | January 10, 2023 | November 1, 2023 | Ahana Cloud |
-| Ying Su  | yingsu00 | January 10, 2023 | November 1, 2023 | Ahana Cloud |
-| Aditi Pandit | aditi-pandit | June 21, 2023 | November 1, 2023 | Ahana Cloud |
+| Deepak Majeti  | majetideepak | January 10, 2023 | May 1, 2024 | Ahana Cloud |
+| James Sun  | highker | January 23, 2023 | May 1, 2024 | Meta |
+| Tim Meehan  | tdcmeehan | January 10, 2023 | May 1, 2024 | Ahana Cloud |
+| Ying Su  | yingsu00 | January 10, 2023 | May 1, 2024 | Ahana Cloud |
+| Aditi Pandit | aditi-pandit | June 21, 2023 | May 1, 2024 | Ahana Cloud |
 | Rebecca Schlussel | rschlussel | June 21, 2023 | May 1, 2024 | Meta |
 | Beinan Wang | beinan | June 21, 2023 | May 1, 2024 | Alluxio |
 | Zhenxiao Luo  | zhenxiao | June 21, 2023 | May 1, 2024 | Pinterest |
