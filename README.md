@@ -28,17 +28,17 @@ Everyone must sign the Presto CLA prior to making a contribution. You may either
 
 The current members of the Presto TSC are:
 
-| Name | Github | Term begins | Term ends | Affiliation |
-| ---- | ------ | ------------|-------------|-----------|
-| Deepak Majeti  | majetideepak | January 10, 2023 | May 1, 2024 | Ahana Cloud |
-| James Sun  | highker | January 23, 2023 | May 1, 2024 | Meta |
-| Tim Meehan  | tdcmeehan | January 10, 2023 | May 1, 2024 | Ahana Cloud |
-| Ying Su  | yingsu00 | January 10, 2023 | May 1, 2024 | Ahana Cloud |
-| Aditi Pandit | aditi-pandit | June 21, 2023 | May 1, 2024 | Ahana Cloud |
-| Rebecca Schlussel | rschlussel | June 21, 2023 | May 1, 2024 | Meta |
-| Beinan Wang | beinan | June 21, 2023 | May 1, 2024 | Alluxio |
-| Zhenxiao Luo  | zhenxiao | June 21, 2023 | May 1, 2024 | Pinterest |
-| Xiaoxuan Meng | xiaoxmeng | June 21, 2023 | May 1, 2024 | Meta |
+| Name              | Github       | Term begins  | Term ends   | Affiliation |
+|-------------------|--------------|--------------|-------------|-------------|
+| Jay Narale        | jaystarshot  | May 21, 2024 | May 1, 2025 | Uber        |
+| Andrii Rosa       | arhimondr    | May 21, 2024 | May 1, 2025 | Meta        |
+| Tim Meehan        | tdcmeehan    | May 21, 2024 | May 1, 2025 | IBM         |
+| Ying Su           | yingsu00     | May 21, 2024 | May 1, 2025 | IBM         |
+| Aditi Pandit      | aditi-pandit | May 21, 2024 | May 1, 2025 | IBM         |
+| Rebecca Schlussel | rschlussel   | May 21, 2024 | May 1, 2025 | Meta        |
+| Beinan Wang       | beinan       | May 21, 2024 | May 1, 2025 | Apple       |
+| Zhenxiao Luo      | zhenxiao     | May 21, 2024 | May 1, 2025 | Pinterest   |
+| Amit Dutta        | amitkdutta   | May 21, 2024 | May 1, 2025 | Meta        |
 
 TSC membership is open to Presto project committers. Prior to each election, candidates must submit a [self-nomination form](./elections/SELF_NOMINATION_TEMPLATE.md).
 
