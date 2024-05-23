@@ -98,4 +98,4 @@ Presto Foundation follows the [community best practice](https://www.linuxfoundat
 
 #### SPDX
 
-Contributors are encouraged (but not required) to adopt the practice of including [SPDX short form identifiers](https://spdx.org/ids-how) in their files.
+Contributors are encouraged (but not required) to adopt the practice of including [SPDX short form identifiers](https://spdx.dev/about/overview/) in their files.
