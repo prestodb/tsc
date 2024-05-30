@@ -42,7 +42,7 @@ The current members of the Presto TSC are:
 
 TSC membership is open to Presto project committers. Prior to each election, candidates must submit a [self-nomination form](./elections/SELF_NOMINATION_TEMPLATE.md).
 
-Beginning in 2023, the TSC has nine seats. Per the charter, TSC voting member terms are one year and elections occur semi-annually. To establish the semi-annual cadence, three TSC members will be selected by coin toss to serve an initial 1.5 year term. 
+Beginning in 2023, the TSC has nine seats. Per the charter, TSC voting member terms are one year. 
 
 The voting process is described in the [TSC charter](https://github.com/prestodb/tsc/blob/master/CHARTER.md#3-tsc-voting).
 
