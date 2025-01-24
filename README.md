@@ -30,15 +30,15 @@ The current members of the Presto TSC are:
 
 | Name              | Github       | Term begins  | Term ends   | Affiliation |
 |-------------------|--------------|--------------|-------------|-------------|
-| Jay Narale        | jaystarshot  | May 21, 2024 | May 1, 2025 | Uber        |
-| Andrii Rosa       | arhimondr    | May 21, 2024 | May 1, 2025 | Meta        |
-| Tim Meehan        | tdcmeehan    | May 21, 2024 | May 1, 2025 | IBM         |
-| Ying Su           | yingsu00     | May 21, 2024 | May 1, 2025 | IBM         |
-| Aditi Pandit      | aditi-pandit | May 21, 2024 | May 1, 2025 | IBM         |
-| Rebecca Schlussel | rschlussel   | May 21, 2024 | May 1, 2025 | Meta        |
-| Beinan Wang       | beinan       | May 21, 2024 | May 1, 2025 | Apple       |
-| Zhenxiao Luo      | zhenxiao     | May 21, 2024 | May 1, 2025 | Pinterest   |
-| Amit Dutta        | amitkdutta   | May 21, 2024 | May 1, 2025 | Meta        |
+| Jay Narale        | jaystarshot  | May 21, 2024 | September 1, 2025 | Uber        |
+| Andrii Rosa       | arhimondr    | May 21, 2024 | September 1, 2025 | Meta        |
+| Tim Meehan        | tdcmeehan    | May 21, 2024 | September 1, 2025 | IBM         |
+| Ying Su           | yingsu00     | May 21, 2024 | September 1, 2025 | IBM         |
+| Aditi Pandit      | aditi-pandit | May 21, 2024 | September 1, 2025 | IBM         |
+| Rebecca Schlussel | rschlussel   | May 21, 2024 | September 1, 2025 | Meta        |
+| Beinan Wang       | beinan       | May 21, 2024 | September 1, 2025 | Uber       |
+| Zhenxiao Luo      | zhenxiao     | May 21, 2024 | September 1, 2025 | Pinterest   |
+| Amit Dutta        | amitkdutta   | May 21, 2024 | September 1, 2025 | Meta        |
 
 TSC membership is open to Presto project committers. Prior to each election, candidates must submit a [self-nomination form](./elections/SELF_NOMINATION_TEMPLATE.md).
 
