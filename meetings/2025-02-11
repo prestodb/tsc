@@ -24,7 +24,7 @@ Examples of types of actions that are prohibited at Linux Foundation meetings an
 
 Agenda
 * [Rebecca] notable PRs
-* [Gary or Rebecca] DeleteTableHandle proposal  https://github.com/prestodb/presto/issues/24520
+* [Gary or Rebecca] Proposed ConnectorMetadata SPI change for delete  https://github.com/prestodb/presto/issues/24520
 
 
 
