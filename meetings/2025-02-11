@@ -24,9 +24,28 @@ Examples of types of actions that are prohibited at Linux Foundation meetings an
 
 Agenda
 * [Rebecca] notable PRs
-* [Gary or Rebecca] Proposed ConnectorMetadata SPI change for delete  https://github.com/prestodb/presto/issues/24520
+  - Sidecar
+    * https://github.com/prestodb/presto/pull/24179 Native type manager (open)
+    * https://github.com/prestodb/presto/pull/23358  Native function namespace manager (merged)
+    * https://github.com/prestodb/presto/pull/24144 SPI for delegating row expression optimizer
+  - Coordinator Efficiency
+    * https://github.com/prestodb/presto/pull/24472 Event loop for stage execution (open)
+    * https://github.com/prestodb/presto/pull/24446 Record more cpu metrics to understand planning latency (merged)
+    * https://github.com/prestodb/presto/pull/24414 Optimize merging of operator stats (merged)
+  - Arrowflight connector
+    * https://github.com/prestodb/presto/pull/24427 Arrow flight connector template (merged)
+    * https://github.com/prestodb/presto/pull/24504 [Native] Add arrow flight connector (open)
+  - Iceberg Connector
+    *  https://github.com/prestodb/presto/pull/21977 Writing sorted files (merged)
+  - Bug fixes:
+    * https://github.com/prestodb/presto/pull/24396 [Native] Fix json -> varchar cast (merged)
+  - Security
+    * https://github.com/prestodb/presto/pull/24436 Use more secure TLS protocol (merged)
+    * various dependency upgrades to resolve CVEs
+    
 * [Anant] Close on JDK upgrade proposal RFC  https://github.com/prestodb/rfcs/pull/35
 * [Anant] Should we move PrestoDB tempto images to [GitHub Container Registry](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-container-registry)
+* [Gary or Rebecca] Proposed ConnectorMetadata SPI change for delete  https://github.com/prestodb/presto/issues/24520
 
 
 
