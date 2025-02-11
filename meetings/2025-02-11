@@ -25,6 +25,8 @@ Examples of types of actions that are prohibited at Linux Foundation meetings an
 Agenda
 * [Rebecca] notable PRs
 * [Gary or Rebecca] Proposed ConnectorMetadata SPI change for delete  https://github.com/prestodb/presto/issues/24520
+* [Anant] Close on JDK upgrade proposal RFC  https://github.com/prestodb/rfcs/pull/35
+* [Anant] Should we move PrestoDB tempto images to [GitHub Container Registry](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-container-registry)
 
 
 
