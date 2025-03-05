@@ -49,7 +49,7 @@ Agenda
 * [Anant] Should we move PrestoDB tempto images to [GitHub Container Registry](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-container-registry)
 * [Gary or Rebecca] Proposed ConnectorMetadata SPI change for delete  https://github.com/prestodb/presto/issues/24520
 
-
+* [Leaderboard](https://github.com/prestodb/tsc/tree/master/meetings/files/2025-02-11)
 
 Attendance
 Voting Members
