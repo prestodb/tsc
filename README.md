@@ -28,17 +28,17 @@ Everyone must sign the Presto CLA prior to making a contribution. You may either
 
 The current members of the Presto TSC are:
 
-| Name              | Github       | Term begins  | Term ends   | Affiliation |
-|-------------------|--------------|--------------|-------------|-------------|
-| Jay Narale        | jaystarshot  | May 21, 2024 | September 1, 2025 | Uber        |
-| Andrii Rosa       | arhimondr    | May 21, 2024 | September 1, 2025 | Meta        |
-| Ying Su           | yingsu00     | May 21, 2024 | September 1, 2025 | IBM         |
-| Aditi Pandit      | aditi-pandit | May 21, 2024 | September 1, 2025 | IBM         |
-| Beinan Wang       | beinan       | May 21, 2024 | September 1, 2025 | Uber        |
-| Zhenxiao Luo      | zhenxiao     | May 21, 2024 | September 1, 2025 | Pinterest   |
-| Amit Dutta        | amitkdutta   | May 21, 2024 | September 1, 2025 | Meta        |
-| Open Seat         |              |              |                   |             |
-| Open Seat         |              |              |                   |             |
+| Name              | Github         | Term begins        | Term ends | Affiliation |
+|-------------------|----------------|--------------------|-----------|-------------|
+| Jay Narale        | jaystarshot    | May 21, 2024       | -         | Microsoft   |
+| Andrii Rosa       | arhimondr      | May 21, 2024       | -         | Meta        |
+| Ying Su           | yingsu00       | May 21, 2024       | -         | IBM         |
+| Aditi Pandit      | aditi-pandit   | May 21, 2024       | -         | IBM         |
+| Beinan Wang       | beinan         | May 21, 2024       | -         | Microsoft   |
+| Zhenxiao Luo      | zhenxiao       | May 21, 2024       | -         | Pinterest   |
+| Amit Dutta        | amitkdutta     | May 21, 2024       | -         | Meta        |
+| Shrinidhi Joshi   | shrinidhijoshi | September 17, 2026 | -         | Meta        |
+| Jianjian Xie      | jja725         | September 17, 2026 | -         | Uber        |
 
 TSC membership is open to Presto project committers. Prior to each election, candidates must submit a [self-nomination form](./elections/SELF_NOMINATION_TEMPLATE.md).
 
